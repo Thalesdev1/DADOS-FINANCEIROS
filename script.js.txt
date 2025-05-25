@@ -1,0 +1,6 @@
+// [Cole TODO o JavaScript da versão anterior]
+// Incluindo:
+// - Sistema CRUD completo
+// - Controle de localStorage
+// - Geração de gráficos
+// - Validações de formulário
